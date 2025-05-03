@@ -67,7 +67,7 @@ public class TutorialMod
 
     }
 
-    // Add the example block item to the building blocks tab
+    // Add the example block item to the building blocks tabe
     private void addCreative(BuildCreativeModeTabContentsEvent event)
     {
 
